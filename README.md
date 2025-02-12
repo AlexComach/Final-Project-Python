@@ -1,5 +1,5 @@
 # Final-Project-Python
-## CS50 Python Final Project
+## Runescape Shopping Cart
 #### Description:
 My project is a shopping cart based on the game Old School Runescape. It takes the cost of items inputted from the Old School Runescape Wiki, which is taken from the Grand Exchange(in game Runescape trading hub), asks for quantity and then calculates the total cost, printing out the items, the total cost of the individual items bought and then the total cost overall at the bottom, like a receipt. It then stores the the purchase history in storage.csv and backup_storage.csv. The user can then choose to continue shopping or end it, which will then show the final receipt.
 Also have a test_project.py, which tests all important functions.
